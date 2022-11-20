@@ -29,8 +29,3 @@ function renderCartItem(item) {
 
     return `<div class="cart-item"><div>${product.title}</div><div>${itemCountText}</div></div>`;
 }
-<div class="cart-item"><div>Пицца</div><div> ₽ = 2500 ₽</div></div>
-<div class="cart-item"><div>Пицца</div><div>5 × 500.00 ₽ = 2500 ₽</div></div>
-
-<div class="cart-item"><div>Эчпочмак</div><div> ₽ = 110 ₽</div></div>
-<div class="cart-item"><div>Эчпочмак</div><div>2 × 55.00 ₽ = 110 ₽</div></div>
